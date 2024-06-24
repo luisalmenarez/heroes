@@ -1,1 +1,1 @@
-# HeroesApp ✨
+# HeroesApp
